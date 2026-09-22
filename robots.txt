@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://huxiukk.github.io/yinghuayings/sitemap.xml
